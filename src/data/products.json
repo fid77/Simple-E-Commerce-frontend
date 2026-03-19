@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "price": 299.99,
+    "description": "High-fidelity audio with active noise cancellation and 40-hour battery life.",
+    "image": "https://picsum.photos/seed/headphones/400/300",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Leather Watch",
+    "price": 149.50,
+    "description": "Elegant timepiece with a genuine leather strap and sapphire crystal glass.",
+    "image": "https://picsum.photos/seed/watch/400/300",
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 129.99,
+    "description": "Tactile switches with customizable RGB lighting and programmable macros.",
+    "image": "https://picsum.photos/seed/keyboard/400/300",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Office Chair",
+    "price": 349.00,
+    "description": "Adjustable lumbar support and breathable mesh for all-day comfort.",
+    "image": "https://picsum.photos/seed/chair/400/300",
+    "category": "Furniture"
+  },
+  {
+    "id": 5,
+    "name": "Smart Fitness Tracker",
+    "price": 79.99,
+    "description": "Track your steps, heart rate, and sleep patterns with ease.",
+    "image": "https://picsum.photos/seed/fitness/400/300",
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "name": "Portable Bluetooth Speaker",
+    "price": 59.95,
+    "description": "Waterproof design with powerful bass and 360-degree sound.",
+    "image": "https://picsum.photos/seed/speaker/400/300",
+    "category": "Electronics"
+  }
+]

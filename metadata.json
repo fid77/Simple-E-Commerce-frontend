@@ -1,0 +1,5 @@
+{
+  "name": "Simple E-Commerce",
+  "description": "A simple e-commerce frontend with product listing, cart management, and automatic total calculation.",
+  "requestFramePermissions": []
+}
